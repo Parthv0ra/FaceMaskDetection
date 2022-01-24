@@ -14,3 +14,7 @@ To avoid getting infected or spreading it, It is essential to wear a face mask w
 <h1>About The Project</h1>
 
 The system is designed to detect the faces and to determine whether the person wears a face mask or not. Using the above data, we can decide whether the concerned person can be allowed inside public places such as the market, or a hospital. This project can be used in the hospital, market, bus terminals, restaurants, and other public gatherings where the monitoring has to be done.
+
+![alt text](https://github.com/Parthv0ra/FaceMaskDetection/blob/main/Screenshot%202022-01-24%20at%204.02.49%20PM.png)<br>
+![alt text](https://github.com/Parthv0ra/FaceMaskDetection/blob/main/Screenshot%202022-01-24%20at%204.02.49%20PM.png)<br>
+
